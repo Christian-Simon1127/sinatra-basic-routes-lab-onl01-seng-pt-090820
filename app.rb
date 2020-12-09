@@ -6,6 +6,17 @@ class App < Sinatra::Base
     "Hello, World!"
   end 
   
+  get '/home' do 
+    
+  end
+  
+  get '/name' do 
+    
+  end
+  
+  get '/favorite-song' do
+  
+  end
   
   
 end
